@@ -1,10 +1,10 @@
- TFG – U.S.–China Trade Tensions and Global Supply Chains (2018–2025)
+# TFG – U.S.–China Trade Tensions and Global Supply Chains (2018–2025)
 
 This repository contains the Python code and visualizations developed for my **Undergraduate Thesis in Economics (University of Barcelona)**:
 
 **“The Impact of Trade Tensions between the United States and China on Global Supply Chains: From the 2018 Conflict to the 2025 Tariff Crisis”**
 
----
+
 
  Introduction
 
@@ -17,7 +17,7 @@ The study explores:
 - Corporate and governmental responses to growing uncertainty.  
 - Future scenarios of globalization and economic fragmentation.  
 
----
+
  Objectives
 
 - Assess the evolution of U.S.–China trade tensions since 2018.  
@@ -27,7 +27,7 @@ The study explores:
 - Evaluate government responses (industrial policy, subsidies, trade alliances).  
 - Explore future scenarios of deglobalization and supply chain reconfiguration.  
 
----
+
 
  Contents
 
@@ -38,7 +38,7 @@ The study explores:
 - Case studies: Apple, Huawei, Tesla.  
 - Scenario simulation: diversification of FDI (India, Vietnam, Mexico, Malaysia).  
 
----
+
 
  Tools & Libraries
 
@@ -47,7 +47,7 @@ The study explores:
 - matplotlib → visualization  
 - scikit-learn → regression and predictive models  
 
----
+
 
 Results & Conclusions
 
@@ -60,7 +60,7 @@ Results & Conclusions
 - **Global impact**: The EU, including Spain, was indirectly hit via rising intermediate goods prices and inflation, sparking debates on strategic autonomy.  
 - **Future outlook**: Deglobalization and supply chain regionalization appear more likely than a return to pre-2018 trade integration.  
 
----
+
 
 Context
 
@@ -69,7 +69,7 @@ Context
 - **Frameworks**: Global Value Chains, International Political Economy, Supply Chain Resilience  
 - **Case studies**: Apple, Huawei, Tesla  
 
----
+
 
 Author: **Omar Aalikouche**  
 University of Barcelona – B.A. in Economics  
