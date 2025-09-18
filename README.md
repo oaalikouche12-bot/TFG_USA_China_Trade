@@ -1,30 +1,32 @@
-# 📊 TFG - Comercio EE.UU. - China (2018-2025)
+# TFG - U.S.–China Trade Analysis (2018–2025)
 
-Este repositorio contiene el código de mi **Trabajo de Fin de Grado en Economía** (Universitat de Barcelona), centrado en el análisis del impacto de la guerra comercial entre Estados Unidos y China en las cadenas de suministro globales.
+This repository contains the code and visualizations of my **Undergraduate Thesis in Economics** (University of Barcelona).  
+The research focuses on the impact of the U.S.–China trade war on global supply chains and related economic indicators.
 
-## 📑 Contenido
-- `TFG_comercio_USA_China.ipynb`: Notebook con los análisis, cálculos y visualizaciones.
-- Gráficos de exportaciones, importaciones y balanza comercial (2018-2025).
-- Modelos de regresión lineal para estimar tendencias.
-- Simulación de aranceles y su impacto en distintos sectores.
-- Comparativas de IPC, IPP y diversificación geográfica.
+## Contents
+- `TFG_comercio_USA_China.ipynb`: Main Jupyter Notebook with data analysis and visualizations.
+- Graphs of U.S. exports, Chinese imports, and trade balance (2018–2025).
+- Linear regression models to estimate trade trends.
+- Tariff simulations and their estimated impact on different sectors.
+- Comparative analysis of CPI, PPI, and geographical diversification of production.
 
-## 🛠️ Librerías utilizadas
-- pandas
-- numpy
-- matplotlib
-- scikit-learn
+## Tools & Libraries
+- **pandas** → data handling  
+- **numpy** → numerical computations  
+- **matplotlib** → data visualization  
+- **scikit-learn** → regression and predictive models  
 
-## 🎯 Objetivo
-Analizar cómo las tensiones comerciales entre EE.UU. y China afectan:
-- La balanza comercial.
-- Los sectores industriales clave.
-- La inflación y precios al productor.
-- La inversión extranjera directa (IED).
-- La diversificación geográfica de la producción.
+## Research Objective
+To analyze how U.S.–China trade tensions affect:
+- Bilateral trade balance.  
+- Key industrial sectors.  
+- Inflation and producer prices.  
+- Foreign direct investment (FDI).  
+- Global production diversification.  
 
 ---
 
-📌 Autor: **Omar Aalikouche**  
-🎓 Universidad de Barcelona – Grado en Economía  
-📅 Defensa del TFG: Julio 2025  
+Author: **Omar Aalikouche**  
+University of Barcelona – B.A. in Economics  
+Thesis Defense: July 2025  
+  
